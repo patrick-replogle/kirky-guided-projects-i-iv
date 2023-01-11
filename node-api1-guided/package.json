@@ -28,7 +28,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
-    "knex": "^0.20.7",
+    "knex": "^2.4.0",
     "sqlite3": "^4.1.1"
   }
 }
